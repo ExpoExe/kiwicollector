@@ -1,0 +1,206 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.087 seconds
+Platform assembly: E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity Projects\Kiwi Collector\Builds\alpha_v02_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.220396 ms
+Raycast has hit something at: (1.8, 6.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (2.1, 16.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-0.8, 26.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.0, 36.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-2.4, 48.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-2.0, 57.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.7, 69.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-0.4, 78.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-0.4, 88.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-1.5, 98.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.8, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-2.8, 119.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (0.2, 128.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-0.5, 141.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-0.7, 150.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-1.5, 150.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-1.0, 150.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (2.9, 163.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.9, 171.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (2.6, 184.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-3.1, 193.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-2.3, 194.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-2.6, 194.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.303530 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.131245 ms (FindLiveObjects: 0.010885 ms CreateObjectMapping: 0.014928 ms MarkObjects: 0.101388 ms  DeleteObjects: 0.003732 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312874 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.130623 ms (FindLiveObjects: 0.009952 ms CreateObjectMapping: 0.013373 ms MarkObjects: 0.103254 ms  DeleteObjects: 0.003732 ms)
+
+Raycast has hit something at: (2.1, 6.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (2.0, 16.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (2.7, 16.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.565102 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.229835 ms (FindLiveObjects: 0.018660 ms CreateObjectMapping: 0.027990 ms MarkObjects: 0.175408 ms  DeleteObjects: 0.006842 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.289859 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.139331 ms (FindLiveObjects: 0.011507 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.109785 ms  DeleteObjects: 0.004043 ms)
+
+Raycast has hit something at: (1.8, 6.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.5, 16.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (0.8, 26.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.0, 35.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.1, 35.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.5, 36.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.4, 35.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (-0.3, 47.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast has hit something at: (1.7, 53.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.325936 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.127824 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.100144 ms  DeleteObjects: 0.003110 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.292347 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.149283 ms (FindLiveObjects: 0.009952 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.121293 ms  DeleteObjects: 0.004043 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 38c8 -> priority: 1 
+  Thread -> id: 24f0 -> priority: 1 
